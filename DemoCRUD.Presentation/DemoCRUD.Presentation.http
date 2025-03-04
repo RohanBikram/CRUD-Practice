@@ -1,0 +1,6 @@
+@DemoCRUD.Presentation_HostAddress = http://localhost:5234
+
+GET {{DemoCRUD.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
