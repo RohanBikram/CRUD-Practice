@@ -1,0 +1,17 @@
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\bin\Debug\net8.0\DemoCRUD.Infrastructure.deps.json
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\bin\Debug\net8.0\DemoCRUD.Infrastructure.dll
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\bin\Debug\net8.0\DemoCRUD.Infrastructure.pdb
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\bin\Debug\net8.0\DemoCRUD.Application.dll
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\bin\Debug\net8.0\DemoCRUD.Domain.dll
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\bin\Debug\net8.0\DemoCRUD.Application.pdb
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\bin\Debug\net8.0\DemoCRUD.Domain.pdb
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\obj\Debug\net8.0\DemoCRUD.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\obj\Debug\net8.0\DemoCRUD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\obj\Debug\net8.0\DemoCRUD.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\obj\Debug\net8.0\DemoCRUD.Infrastructure.AssemblyInfo.cs
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\obj\Debug\net8.0\DemoCRUD.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\obj\Debug\net8.0\DemoCRUD.8ABC49CC.Up2Date
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\obj\Debug\net8.0\DemoCRUD.Infrastructure.dll
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\obj\Debug\net8.0\refint\DemoCRUD.Infrastructure.dll
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\obj\Debug\net8.0\DemoCRUD.Infrastructure.pdb
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Infrastructure\obj\Debug\net8.0\ref\DemoCRUD.Infrastructure.dll

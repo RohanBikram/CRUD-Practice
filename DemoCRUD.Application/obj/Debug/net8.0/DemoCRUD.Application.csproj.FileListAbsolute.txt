@@ -1,0 +1,15 @@
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Application\bin\Debug\net8.0\DemoCRUD.Application.deps.json
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Application\bin\Debug\net8.0\DemoCRUD.Application.dll
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Application\bin\Debug\net8.0\DemoCRUD.Application.pdb
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Application\bin\Debug\net8.0\DemoCRUD.Domain.dll
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Application\bin\Debug\net8.0\DemoCRUD.Domain.pdb
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Application\obj\Debug\net8.0\DemoCRUD.Application.csproj.AssemblyReference.cache
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Application\obj\Debug\net8.0\DemoCRUD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Application\obj\Debug\net8.0\DemoCRUD.Application.AssemblyInfoInputs.cache
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Application\obj\Debug\net8.0\DemoCRUD.Application.AssemblyInfo.cs
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Application\obj\Debug\net8.0\DemoCRUD.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Application\obj\Debug\net8.0\DemoCRUD.3EAA0BF6.Up2Date
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Application\obj\Debug\net8.0\DemoCRUD.Application.dll
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Application\obj\Debug\net8.0\refint\DemoCRUD.Application.dll
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Application\obj\Debug\net8.0\DemoCRUD.Application.pdb
+C:\Users\Rohan\Desktop\WebAPIPractice\DemoCRUDWebAPI\DemoCRUD.Application\obj\Debug\net8.0\ref\DemoCRUD.Application.dll
